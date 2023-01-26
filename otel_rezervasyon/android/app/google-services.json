@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "547750017121",
+    "project_id": "otel-rezervasyon-24166",
+    "storage_bucket": "otel-rezervasyon-24166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547750017121:android:c705da08a56138a98bd220",
+        "android_client_info": {
+          "package_name": "com.example.otel_rezervasyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547750017121-t2tkaep4vaorc5vq7v1ll2svfaii9889.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcvGZnUrEYA6PgichRviv7dOkrd8ZZF_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547750017121-t2tkaep4vaorc5vq7v1ll2svfaii9889.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547750017121-et9dcq2evtb0avcrhnkadeuimj9mjftk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.otelRezervasyon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
