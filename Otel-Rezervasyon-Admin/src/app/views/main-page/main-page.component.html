@@ -1,0 +1,16 @@
+<div class=" h-full w-full flex">
+    <div class="h-full flex flex-col justify-between  w-72 bg-base-200">
+        <ul class="menu p-4   text-base-content">
+            <!-- Sidebar content here -->
+            <li><a routerLink="/main/dashboard" routerLinkActive="active">Dashboard</a></li>
+            <li><a routerLink="/main/rezervasyonlar" routerLinkActive="active">Rezervasyonlar</a></li>
+        </ul>
+        <div class="p-4">
+            <button (click)="logout()" class="btn">çıkış yap</button>
+        </div>
+    </div>
+    <div class="h-full w-full">
+        <router-outlet></router-outlet>
+    </div>
+
+</div>
